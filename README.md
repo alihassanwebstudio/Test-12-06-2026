@@ -1,18 +1,15 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true)
-
 # 👋 Hi, I'm Ali Hassan
 
-## 🚀 GitHub Statistics
+![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=radical)
+![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=merko)
+![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=gruvbox)
+![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=tokyonight)
+![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=onedark)
+![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=cobalt)
+![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=highcontrast)
+![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=dracula)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihassanwebstudio&layout=compact&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=alihassanwebstudio&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-
-## 💻 Technologies
-
-Python • AI Automation • Web Development • Git • Linux
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
