@@ -5,7 +5,6 @@
 ![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=gruvbox)
 ![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=tokyonight)
 ![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=onedark)
-
 ![Ali Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassanwebstudio&show_icons=true&theme=highcontrast)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihassanwebstudio&layout=compact&theme=transparent&hide_border=true)
